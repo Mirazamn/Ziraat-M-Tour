@@ -1,0 +1,48 @@
+{
+    "header": {
+        "home": "Asosiy",
+        "destinations": "Yo'nalishlar",
+        "about": "Biz haqimizda",
+        "partner": "Hamkorlar",
+        "contactus": "Bog'lanish"
+    },
+    "hero": {
+        "title": "Kashf et va sayohat qil",
+        "subtitle": "Ta'til qidirish",
+        "location": "Manzil",
+        "activity": "Mashg'ulot",
+        "grade": "Daraja",
+        "date": "Sana",
+        "explore": "Boshlash",
+        "reach": "Borish",
+        "arrive": "Kelish"
+    },
+    "cta": {
+        "title": "Dunyoni kashf etishning yangi usuli",
+        "paragraph": "O'n yillar davomida sayohatchilar mukammal safarlarini rejalashtirish uchun kitoblarga murojaat qilishgan. Endi esa ular Ziraat M Tour tajribasiga ham ishonishlari mumkin.",
+        "button": "Batafsil"
+    },
+    "features": {
+        "title": "Mashhur yo‘nalishlar",
+        "more": "Batafsil",
+        "less": "Kamroq"
+    },
+    "guide": {
+        "title": "Thousand Sunny gidlari",
+        "paragraph": "Unutilmas sayohatingizni bugun boshlang! Eng yaxshi yo‘nalishlar, qulay narxlar va shaxsiy yondashuv faqat bizda – hoziroq bog‘laning!",
+        "button": "Ko'proq ma'lumot"
+    },
+    "modal": {
+        "title": "Boshladik!",
+        "nameplaceholder": "Ismingiz...",
+        "send": "Yuborish",
+        "followus": "Bizni kuzatib boring",
+        "phone": "Telefon"
+    },
+    "testimonials": {
+        "title": "Mijozlar fikrlari",
+        "quote": "Sizning xizmatlaringizdan juda mamnunman. Jamoa juda professional va doim yordamga tayyor edi.",
+        "name": "Aleksey Smirnov",
+        "position": "Circle asoschisi"
+    }
+}
