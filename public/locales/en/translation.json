@@ -29,7 +29,7 @@
         "less": "Less"
     },
     "guide": {
-        "title": "Guides by Thousand Sunny",
+        "title": "Ziraat M Tour",
         "paragraph": "Start your unforgettable journey today! Top destinations, affordable prices, and a personalized approach – only with us. Contact us now!",
         "button": "Learn more"
     },
@@ -45,5 +45,22 @@
         "quote": "Quisque in lacus a urna fermentum euismod. Integer mi nibh, dapibus ac scelerisque eu, facilisis quis purus. Morbi blandit sit amet turpis nec",
         "name": "Aleksey Smirnov",
         "position": "Founder Circle"
+    },
+    "footer": {
+        "slogan": "Plan and book your perfect trip with expert advice, travel tips and destination information from us",
+        "destinations": "Destinations",
+        "africa": "Africa",
+        "antarctica": "South America",
+        "asia": "Asia",
+        "europe": "Europe",
+        "america": "North America",
+        "interests": "Interests",
+        "adventure_travel": "Adventure Travel",
+        "art_and_culture": "Art And Culture",
+        "wildlife_and_nature": "Wildlife And Nature",
+        "family_holidays": "Family Holidays",
+        "food_and_drink": "Food And Drink",
+        "contact_us": "Contact Us",
+        "copyright": "©2025 Ziraat M Tour. All rights reserved"
     }
 }

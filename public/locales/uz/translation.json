@@ -28,7 +28,7 @@
         "less": "Kamroq"
     },
     "guide": {
-        "title": "Thousand Sunny gidlari",
+        "title": "Ziraat M Tour",
         "paragraph": "Unutilmas sayohatingizni bugun boshlang! Eng yaxshi yo‘nalishlar, qulay narxlar va shaxsiy yondashuv faqat bizda – hoziroq bog‘laning!",
         "button": "Ko'proq ma'lumot"
     },
@@ -44,5 +44,22 @@
         "quote": "Sizning xizmatlaringizdan juda mamnunman. Jamoa juda professional va doim yordamga tayyor edi.",
         "name": "Aleksey Smirnov",
         "position": "Circle asoschisi"
+    },
+    "footer": {
+        "slogan": "Mutaxassis maslahatlari, sayohat bo‘yicha tavsiyalar va ma’lumotlar bilan ideal sayohatingizni rejalashtiring va bron qiling",
+        "destinations": "Yo‘nalishlar",
+        "africa": "Afrika",
+        "antarctica": "Janubiy Amerika",
+        "asia": "Osiyo",
+        "europe": "Yevropa",
+        "america": "Shimoliy Amerika",
+        "interests": "Qiziqishlar",
+        "adventure_travel": "Sarguzasht sayohat",
+        "art_and_culture": "San’at va madaniyat",
+        "wildlife_and_nature": "Yovvoyi tabiat",
+        "family_holidays": "Oila uchun dam olish",
+        "food_and_drink": "Oziq-ovqat va ichimliklar",
+        "contact_us": "Biz bilan bog‘laning"
     }
+
 }

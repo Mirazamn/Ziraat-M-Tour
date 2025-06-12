@@ -4,39 +4,40 @@ import Logo from '../../assets/Logo.png'
 
 import { RiTwitterXLine } from "react-icons/ri";
 import { FaFacebookF, FaInstagram, FaLinkedinIn, FaYoutube } from "react-icons/fa";
+import { useTranslation } from 'react-i18next';
 
 function Footer() {
+  const {t} = useTranslation()
+
   return (
     <footer>
         <div className="container flex">
             <div className="about flex">
                 <img width="130px" src={Logo} alt="" />
-                <p>Plan and book your perfect trip with <br /> 
-                expert advice, travel tips destination <br />
-                information from us</p>
-                <h6>©2020 Thousand Sunny. All rights reserved</h6>
+                <p>{t('footer.slogan')}</p>
+                <h6>{t('footer.copyright')}</h6>
             </div>
 
             <ul className='flex'>
-                <h4>Destinations</h4>
-                <li>Africa</li>
-                <li>Antarctica</li>
-                <li>Asia</li>
-                <li>Europe</li>
-                <li>America</li>
+                <h4>{t('footer.destinations')}</h4>
+                <li>{t('footer.africa')}</li>
+                <li>{t('footer.antarctica')}</li>
+                <li>{t('footer.asia')}</li>
+                <li>{t('footer.europe')}</li>
+                <li>{t('footer.america')}</li>
             </ul>
 
             <ul className='flex'>
-                <h4>Interests</h4>
-                <li>Adventure Travel</li>
-                <li>Art And Culture</li>
-                <li>Wildlife And Nature</li>
-                <li>Family Holidays</li>
-                <li>Food And Drink</li>
+                <h4>{t('footer.interests')}</h4>
+                <li>{t('footer.adventure_travel')}</li>
+                <li>{t('footer.art_and_culture')}</li>
+                <li>{t('footer.wildlife_and_nature')}</li>
+                <li>{t('footer.family_holidays')}</li>
+                <li>{t('footer.food_and_drink')}</li>
             </ul>
 
             <ul className="flex">
-                <h4>Contact Us</h4>
+                <h4>{t('footer.contact_us')}</h4>
                 <div className="flex">
                     <a href="https://x.com/"><RiTwitterXLine className='icon'/></a>
                     <a href="https://www.facebook.com/"><FaFacebookF className='icon'/></a>
@@ -46,7 +47,7 @@ function Footer() {
                 </div>
             </ul>
 
-            <h6 className='rights'>©2020 Thousand Sunny. All rights reserved</h6>
+            <h6 className='rights'>©2025 Ziraat M Tour. All rights reserved</h6>
         </div>
     </footer>
   )
